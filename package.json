@@ -1,0 +1,15 @@
+{
+  "name": "project-management",
+  "version": "1.0.0",
+  "description": "A application to maintain your project",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "node index.js"
+  },
+  "author": "Jagannath Roy",
+  "license": "ISC",
+  "devDependencies": {
+    "prettier": "3.7.4"
+  }
+}
